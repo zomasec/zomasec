@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazem El-Sayed</h1>
 <h3 align="center">Security Automation Engineer | Bug Hunter | Go / Python / PHP C0d3r | Crypto L0ver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zomasec&label=Profile%20views&color=0e75b6&style=flat" alt="zomasec" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=zomasec&label=Profile%20views&color=0e75b6&style=flat" alt="zomasec" /> </p>-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
