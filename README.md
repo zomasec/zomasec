@@ -4,8 +4,8 @@
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=zomasec&label=Profile%20views&color=0e75b6&style=flat" alt="zomasec" /> </p>-->
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:START 
+ BLOG-POST-LIST:END 
 <center>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
