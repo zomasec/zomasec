@@ -11,7 +11,6 @@
 
 ## Let's Connect
 <p align="center" style="display:flex;">
-  <a href="https://twitter.com/BU9D4DDY"><img width="50" alt="Twitter" title="Twitter" src="_resources/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@zomasec"><img width="50" alt="Medium" src="_resources/medium.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
