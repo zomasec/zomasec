@@ -6,7 +6,7 @@
 
 ## Technologies I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,redux,jest,mongodb,postgres,mysql,redis,elixir,kubernetes,docker,nginx,kafka,c,py,java,bash,linux,md,git,github,githubactions,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,docker,kafka,cpp,py,java,bash,linux,md,git,github,vscode,postman" />
 </p>
 
 ## Let's Connect
