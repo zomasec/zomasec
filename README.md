@@ -22,5 +22,6 @@
 </p>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zomasec&show_icons=true&locale=en&layout=compact" alt="zomasec" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zomasec&" alt="zomasec" /></p>
 
