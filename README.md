@@ -1,5 +1,5 @@
 <h1>💫 About Me:</h1>
-<h3> Penetration Tester | Security Automation Engineer | Bug Hunter | Go / Python / PHP C0d3r | Crypto L0ver</h3>
+<h3> Penetration Tester | Security Automation Engineer | Bug Hunter | Go / Python / PHP C0d3r </h3>
 <br>
 
 <div align="center">
